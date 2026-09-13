@@ -1,15 +1,5 @@
 <h1 align="center">Hi there, I'm Muhammad Abdullah Munawar 👋</h1>
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/abdullahaieng">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/abdullahaieng">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/abdullahaieng">
@@ -22,12 +12,16 @@
 </p>
 
 ---
-
+s
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
+  <a href="https://github.com/abdullahaieng">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/abdullahaieng">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
