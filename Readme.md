@@ -26,7 +26,7 @@
 | 💊 ML: Drug Classifier | 🛒 Web: PAKTECH (E-Com) | 🏥 Web: Family Clinic |
 | :--- | :--- | :--- |
 | Machine learning-based system predicting drug categories from medical data. | E-commerce platform focusing on high-contrast, minimalist tech branding. | A responsive, clean web interface developed for a local healthcare clinic. |
-| [**🔗 View Repository**](https://github.com/abdullahaieng/Drug-Classifier-Final) | [**🔗 View Repository**](https://github.com/abdullahaieng/PAKTECH) <br> *(Live Website Link Here)* | [**🔗 View Repository**](https://github.com/abdullahaieng/rasheeda-bibi-family-clinic) <br> *(Live Website Link Here)* |
+| [**🔗 View Repository**](https://github.com/abdullahaieng/Drug-Classifier-Final) | [**🔗 View Repository**](https://github.com/abdullahaieng/PAKTECH) <br> *(paktech-nine.vercel.app)* | [**🔗 View Repository**](https://github.com/abdullahaieng/rasheeda-bibi-family-clinic) <br> *(rasheedabibclinic.vercel.app)* |
 
 ---
 
