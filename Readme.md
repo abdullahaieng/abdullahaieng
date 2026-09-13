@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/abdullahaieng">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=transparent&hide_border=true" alt="GitHub Streak" />
+    #<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=transparent&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
