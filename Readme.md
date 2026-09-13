@@ -1,5 +1,16 @@
 <h1 align="center">Hi there, I'm Muhammad Abdullah Munawar 👋</h1>
 
+### 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/abdullahaieng">
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/abdullahaieng">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/abdullahaieng">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+Progress...;Backend+%26+ML+Developer;C%2B%2B+OOP+%26+Python+Enthusiast;Minimalist+Graphic+Designer&center=true&width=500&height=50&color=9C27B0&vCenter=true&size=22" alt="Typing SVG">
