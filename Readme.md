@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/abdullahaieng">
-    <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=transparent&hide_border=true" alt="" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullahaieng&show_icons=true&theme=transparent&hide_border=true"/>
   </a>
   <a href="https://github.com/abdullahaieng">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahaieng&theme=transparent&hide_border=true" alt="GitHub Streak" />
@@ -26,7 +26,7 @@
 | 💊 ML: Drug Classifier | 🛒 Web: PAKTECH (E-Com) | 🏥 Web: Family Clinic |
 | :--- | :--- | :--- |
 | Machine learning-based system predicting drug categories from medical data. | E-commerce platform focusing on high-contrast, minimalist tech branding. | A responsive, clean web interface developed for a local healthcare clinic. |
-| [**🔗 View Repository**](https://github.com/abdullahaieng/Drug-Classifier-Final) | [**🔗 View Repository**](https://github.com/abdullahaieng/PAKTECH) <br> (https://paktech-nine.vercel.app/) | [**🔗 View Repository**](https://github.com/abdullahaieng/rasheeda-bibi-family-clinic) <br> (https://rasheedabibclinic.vercel.app/) |
+| [**🔗 View Repository**](https://github.com/abdullahaieng/Drug-Classifier-Final)<br> [**Live Demo**](https://drug-classifier-final-fy63j8bqhmqdbfyfufn5of.streamlit.app/) | [**🔗 View Repository**](https://github.com/abdullahaieng/PAKTECH) <br> [**Live Demo**](https://paktech-nine.vercel.app/) | [**🔗 View Repository**](https://github.com/abdullahaieng/rasheeda-bibi-family-clinic) <br> [**Live Demo**](https://rasheedabibclinic.vercel.app/) |
 
 ---
 
